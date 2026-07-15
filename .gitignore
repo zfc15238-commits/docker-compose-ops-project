@@ -1,0 +1,19 @@
+# 日志文件
+logs/
+*.log
+
+# MySQL 备份文件
+backups/mysql/*.sql
+
+# 环境变量和敏感配置
+.env
+
+# 临时备份文件
+*.bak
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 系统文件
+.DS_Store
